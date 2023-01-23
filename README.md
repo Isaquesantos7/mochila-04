@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+# Praticando manipulação de DOM.
